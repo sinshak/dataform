@@ -1,0 +1,5 @@
+defaultProject: sb-ssin-20240626-152215
+defaultLocation: EU
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
